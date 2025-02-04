@@ -31,7 +31,7 @@ Installation
 
 1. Clone this repository:
 
-git clone https://github.com/your-username/calculator.git
+git clone https://github.com/ankitagiri01/Calculator.git
 
 2. Open index.html in your browser.
 
